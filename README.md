@@ -2,6 +2,7 @@
 
 ### 🚀 A sleek Gemini AI clone built using React to deliver intelligent conversations and dynamic responses. Powered by AI, it simulates meaningful human interactions in real-time.
 
+## Experience Youself - 🔗-[Gemini](https://gemini-clone-fmqj.vercel.app/)
 
 ### 🧐 Introduction
 <ul>
