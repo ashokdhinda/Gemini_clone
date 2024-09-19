@@ -18,4 +18,14 @@ The Gemini AI Clone is a frontend-only project built with React that interacts w
 
 
 ### 🛠️ Customizable AI: Easily adjust AI interaction patterns by modifying the frontend code.
- 
+
+
+ ## 🛠️ Technologies Used
+
+### Frontend:
+
+⚛️ React.js 
+
+💅 CSS for styling and responsiveness
+
+🌐 Fetch API to call external AI services
